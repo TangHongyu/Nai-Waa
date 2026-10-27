@@ -10,7 +10,6 @@ GitHub 仓库：[TangHongyu/Nai-Waa](https://github.com/TangHongyu/Nai-Waa)。
 
 ![Nai-waa 三视图](assets/character-reference/nai-waa-three-views.png)
 
-第一张参考底部的 FRONT VIEW 与 SIDE VIEW 标注有误。实际从左到右依次为侧面、正面、背面。技能按可见结构使用参考，不将这些文字带入成图。
 
 ![Nai-waa 三维效果图](assets/character-reference/nai-waa-3d-reference.png)
 
