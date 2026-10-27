@@ -1,0 +1,4 @@
+interface:
+  display_name: "Nai-waa 角色代入"
+  short_description: "依据三视图与三维参考替换图片人物，保留角色特征、动作、场景和构图"
+  default_prompt: "使用 $nai-waa-character-replace，把这张图片中的人物替换成 Nai-waa，保留角色特征、原图动作、背景与构图。"
